@@ -19,3 +19,4 @@ build/
 */dist-ssr
 *.DS_Store
 *.local
+*vetur.config.js
